@@ -1,2 +1,2 @@
-# school_club_python_data_analysis
-수정고 동아리 프로젝트 실
+# stock-data-analysis
+『파이썬 증권 데이터 분석』를 통한 증권 데이터 분석 및 이해
